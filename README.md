@@ -17,7 +17,7 @@
 
 # About
 
-MakeScrollGreatAgain is a simple hack extension for Chrome/Chromium and Opera that replace the old and ugly scrollbar with OverlayScrollBar
+MakeScrollbarGreatAgain is a simple hack extension for Chrome/Chromium and Opera that replace the old and ugly Chrome scrollbar with OverlayScrollBar
 
 <table>
     <tr>
