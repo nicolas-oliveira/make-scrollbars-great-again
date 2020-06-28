@@ -19,6 +19,7 @@
 
 MakeScrollbarGreatAgain is a simple hack extension for Chrome/Chromium and Opera that replace the old and ugly Chrome scrollbar with OverlayScrollBar
 
+<div align="center">
 <table>
     <tr>
         <th>Before</th>
@@ -29,6 +30,7 @@ MakeScrollbarGreatAgain is a simple hack extension for Chrome/Chromium and Opera
         <th><img src="./.github/screen1.png" height="155px"></img></th>
     </tr>
 </table>
+</div>
 
 ### How to install
 To test, just clone this repository and run the extension in your browser with the corresponding folder. You may need to activate the developer mode to Load without packing
