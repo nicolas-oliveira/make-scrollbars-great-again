@@ -7,7 +7,16 @@
     <a href="https://github.com/nicolas-oliveira/make-scrollbars-great-again/tags/">
         <img alt="Last Commit" src="https://badgen.net/github/tag/nicolas-oliveira/make-scrollbars-great-again"></img>
     </a>
+    
+    <a href="#">
+        <img alt="#" src="https://badgen.net/badge/feature/beta/red"></img>
+    </a>
+    
+    <a href="#">
+        <img alt="#" src="https://badgen.net/badge/icon/chrome-extention?icon=chrome&label"></img>
+    </a>
 </div>
+
 # About
 
 MakeScrollGreatAgain is a simple hack extension for Chrome/Chromium and Opera that replace the old and ugly scrollbar with OverlayScrollBar
