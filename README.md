@@ -17,3 +17,10 @@ MakeScrollGreatAgain is a simple hack extension for Chrome/Chromium and Opera th
         <th><img src="./.github/screen1.png" height="155px"></img></th>
     </tr>
 </table>
+
+### How to install
+To test, just clone this repository and run the extension in your browser with the corresponding folder. You may need to activate the developer mode to Load without packing
+
+### Reference
+
+This repository is based in [OverlayScrollbars](https://github.com/KingSora/OverlayScrollbars)
